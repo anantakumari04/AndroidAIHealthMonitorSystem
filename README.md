@@ -1,7 +1,7 @@
 # 🩺 AI Health Monitor – Android Application
 
 <p align="center">
-  <img src="home_screen_preview.png" alt="Home Screen" width="300">
+  <img src="Screenshot 2025-11-05 133303.png" alt="Home Screen" width="300">
 </p>
 
 A smart **AI-powered Android Health Monitoring System** where users can **Login/Signup** and access a **Home Dashboard** with 6 health monitoring features such as Blood Pressure, Calorie & BMI, Water Reminder, Check Symptoms (AI-based), Healthy Diets & Sleep Timer Alarm.  
